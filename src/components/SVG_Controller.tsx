@@ -15,6 +15,7 @@ export const enum IconNameEnum {
   plus = "plus",
   eyeOn = "eye-on",
   eyeOff = "eye-off",
+  close = "close",
 }
 
 interface UiIconProps {
